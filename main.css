@@ -1,0 +1,22 @@
+body {
+	background-color:#558de8;
+}
+
+h1 {
+ color:#656650;
+ font-family: Josefin Sans,cursive;
+ font-size: 50px;
+ text-align:center;
+}
+a {
+a:color:#5a1082;
+}
+a:visited {
+    color:#353638;
+}
+a:hover {
+    color:#5a1082;
+}
+a:active {
+    color:#5a1082;
+}
